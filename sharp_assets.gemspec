@@ -7,11 +7,11 @@ require "sharp_assets/version"
 Gem::Specification.new do |s|
   s.name        = "sharp_assets"
   s.version     = SharpAssets::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SharpAssets."
-  s.description = "TODO: Description of SharpAssets."
+  s.authors     = ["Some useful assets"]
+  s.email       = ["liu19850701@gmail.com"]
+  s.homepage    = "https://github.com/SharpV/sharp_assets"
+  s.summary     = "Some useful assets"
+  s.description = "TODO: Description of SharpAssets"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
