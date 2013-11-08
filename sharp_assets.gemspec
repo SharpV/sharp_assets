@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["liu19850701@gmail.com"]
   s.homepage    = "https://github.com/SharpV/sharp_assets"
   s.summary     = "Some useful assets"
-  s.description = "TODO: Description of SharpAssets"
+  s.description = "Some useful assets"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
